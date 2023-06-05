@@ -5,5 +5,5 @@ nkf fish completion
 ## Install
 
 ```shell
-fisher install username/nkf.fish
+fisher install mimikun/nkf.fish
 ```
