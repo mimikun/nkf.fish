@@ -1,0 +1,27 @@
+Mixed content test file for nkf completion testing
+
+This file contains various text that can be used to test nkf functionality:
+
+ASCII text: Hello World
+Japanese Hiragana: あいうえお
+Japanese Katakana: アイウエオ
+Half-width Katakana: ｱｲｳｴｵ
+Kanji: 漢字 文字 変換 日本語
+Numbers: 0123456789
+Special symbols: !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+
+MIME test data:
+Base64: VGVzdCBkYXRh
+Quoted-printable: =E3=81=93=E3=82=93=E3=81=AB=E3=81=A1=E3=81=AF
+
+Line ending variations:
+Unix (LF)
+Windows (CRLF)
+Mac (CR)
+
+URLs with percent encoding: %E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF
+HTML entities: &lt;hello&gt; &amp; &quot;world&quot;
+
+Long line for folding test: これは非常に長い行でありテストするために作成されました。この行は折り返し機能をテストするために使用されます。自動的に指定された文字数で改行されることを確認します。
+
+Tab characters:	タブ	文字	テスト

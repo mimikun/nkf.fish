@@ -1,0 +1,12 @@
+これはUTF-8でエンコードされたテストファイルです。
+日本語の文字が含まれています。
+漢字、ひらがな、カタカナ、そして英語も含まれています。
+
+Testing UTF-8 encoding with Japanese text:
+- 春夏秋冬 (Four seasons)
+- あいうえお (Hiragana)
+- アイウエオ (Katakana)
+- ｱｲｳｴｵ (Half-width Katakana)
+
+Special characters: ①②③④⑤ ☆★♪♫
+Emoji: 🍣🍜🗾🌸🗻
